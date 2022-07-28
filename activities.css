@@ -1,0 +1,202 @@
+.body-bg{
+    background-color:mintcream;
+}
+
+.heading{
+    background-image: url("images/header.jpg");
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-width: 1fr;
+    max-height:0.25%;
+    width:auto;
+    border-width: 1.03%;
+    border-style: solid;
+    margin: 0;
+    font-size: 2rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .navbar{
+      background-color: rgba(151, 97, 10, 0.768) ;
+      text-shadow: 0 0.14rem 0.2rem black;
+      height:1%;
+  }
+  .nav-link{
+      color:white;
+  }
+  #headimg{
+    border-width: 0px;
+    border-style: solid;
+    box-shadow: 0 0.23rem 0.3rem whitesmoke;
+    background-color: black;
+    opacity:0.8;
+    height:40px;
+}
+  footer{
+    background-color:black;
+    color:beige;
+    text-align:center;
+    padding:1.3%;
+    margin-top:3%;
+  }
+
+  .activities{
+    border:1px solid black;
+    margin:9%;
+    margin-right:8%;
+    padding:5% 5%;
+    overflow:hidden;
+}
+.activities h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2.3rem;
+    font-weight: bolder;
+    color:black;
+    text-shadow: 0 0.21rem 0.23rem bisque;
+    text-align:center;
+    margin-top:5%;
+}
+
+.nss{
+    border: 0 solid black;
+    height:10%;
+    box-shadow: 0 0.34rem 0.25rem rgba(233, 153, 5, 0.916);
+    padding:3%;
+}
+
+.nss img{
+    float:left;
+    width:40%;
+    height:20%;
+    margin-right:2%;
+    margin-top:3%;
+    margin-left:2.5%;
+    border-style:solid;
+    border-width:0.9px;
+    border-radius: 5%;
+}
+
+.ncc{
+    border: 0 solid black;
+    height:9%;
+    box-shadow: 0 0.34rem 0.25rem rgba(5, 233, 81, 0.916);
+    padding:4%;
+}
+.ncc img{
+    float:right;
+    width:40%;
+    height:40%;
+    margin-right:4%;
+    margin-top:4%;
+    margin-left:3%;
+    border-style:solid;
+    border-width:0.9px;
+    border-radius: 5%;
+}
+.para{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    font-weight: 400;
+}
+
+.sports{
+    border: 0 solid black;
+    height:12%;
+    box-shadow: 0 0.34rem 0.25rem rgba(5, 187, 233, 0.853);
+    padding:7%;
+}
+.sports img{
+    float:left;
+    width:30%;
+    height:10%;
+    margin-right:4.3%;
+    margin-top:2%;
+    margin-left:2%;
+    margin-bottom:1.2%;
+    border-style:solid;
+    border-width:0.9px;
+    border-radius: 5%;
+}
+
+#simg2{
+    float:right;
+    width:30%;
+    height:15%;
+    margin-right:4.3%;
+    margin-top:2%;
+    margin-left:2%;
+    border-style:solid;
+    border-width:0.9px;
+    border-radius: 5%;
+}
+
+.society{
+    border: 0 solid black;
+    height:17%;
+    box-shadow: 0 0.34rem 0.25rem rgba(10, 158, 74, 0.853);
+    padding:5%;
+}
+
+.iframe-container{
+    position: relative;
+    width: 100%;
+    height:100%;
+    padding-top:40%;
+    padding-bottom:12%; 
+    height: 0;
+}
+.iframe-container iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 60%;
+    height: 60%;
+    margin-top:3%;
+    margin-left:15%;
+    margin-bottom:3%;
+}
+
+
+
+.clubs{
+    border: 0 solid black;
+    height:auto;
+    box-shadow: 0 0.34rem 0.25rem rgba(233, 225, 5, 0.93);
+    padding:10%;
+}
+
+#ig1{
+    float:left;
+    width:10%;
+    height:10%;
+    margin-right:4.3%;
+    margin-left:4%;
+    margin-bottom: 2%;
+    border-style:solid;
+    border-color:bisque;
+    border-width:0.9px;
+    border-radius: 5%;
+}
+
+
+
+.iim{
+    margin-left:16%
+}
+
+footer a{
+    color:beige;
+    cursor:pointer;
+    margin:2%;
+  }
+
+  footer a:hover{
+    color:blue;
+    background: white;
+  }
+
+ 
+
+
+

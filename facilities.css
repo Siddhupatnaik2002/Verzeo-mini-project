@@ -1,0 +1,193 @@
+.bg_body{
+    background-color:rgba(255, 228, 196, 0.748);
+  }
+
+  .heading{
+    background-image: url("images/header.jpg");
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-width: 1fr;
+    max-height:0.25%;
+    width:auto;
+    border-width: 1.03%;
+    border-style: solid;
+    margin: 0;
+    font-size: 2rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .navbar{
+      background-color: rgba(17, 189, 169, 0.848);
+      text-shadow: 0 0.14rem 0.2rem black;
+      height:1%;
+  }
+  .nav-link{
+      color:white;
+  }
+  #headimg{
+     border-width: 0px;
+     border-style: solid;
+     box-shadow: 0 0.23rem 0.3rem rgb(0, 0, 0);
+     background-color: black;
+     opacity: 0.8;
+     height:40px;
+  }
+
+  #facilities{
+    margin:3% 4%;
+    padding:8%;
+  }
+  #facilities h1{
+    color:whitesmoke;
+    text-align:center;
+    font-size: 2.1rem;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow:0 0 0.34rem rgba(0, 0, 0, 0.681);
+    margin:4%;
+  }
+  .f1{
+    height:20%;
+    margin:3%;
+    padding:8%;
+  }
+  .f1 p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .f1 img{
+    float:right;
+    width:35%;
+    border-radius: 4%;
+    border-style:solid;
+    border-width:0.67px;
+    margin-top:0.3%;
+    margin-bottom:3%;
+  }
+  .f2{
+    height:10%;
+    margin:3%;
+    padding:6%;
+  }
+  .f2 img{
+    float:left;
+    width:35%;
+    border-radius: 4%;
+    border-style:solid;
+    border-width:0.67px;
+    margin-right:4%;
+  }
+  .f3{
+    height:15%;
+    margin:3%;
+    padding:6%;
+  }
+  .f3 .img{
+    float:right;
+    width:30%;
+    border-radius: 4%;
+    border-style:solid;
+    border-width:0.67px;
+  }
+  .f4{
+    height:10%;
+    margin:3%;
+    padding:6%;
+  }
+  .f4 img{
+    float:right;
+    width:35%;
+    border-radius: 4%;
+    border-style:solid;
+    border-width:0.67px;
+  }
+  .f5{height:25%;
+    margin:3%;
+    padding:6%;
+
+    }
+  .f5 img{
+    float:left;
+    width:35%;
+    border-radius: 4%;
+    border-style:solid;
+    border-width:0.67px;
+    margin-right:4%;
+  }
+  .f5 img#i2{
+    float:left;
+    width:35%;
+    border-radius: 4%;
+    border-style:solid;
+    border-width:0.67px;
+  }
+  .f6{
+    height:10%;
+    margin:3%;
+    padding:6%;
+  }
+  .f7{height:10%;
+    margin:3%;
+    padding:8%;
+    }
+  .f7 img{
+    float:left;
+    width:20%;
+    border-radius: 4%;
+    border-style:solid;
+    border-width:0.67px;
+    margin-right:4%;
+  }
+  .f8{
+    height:10%;
+    margin:3%;
+    padding:6%;
+    }
+    .f8 img{
+      float:right;
+      width:35%;
+      border-radius: 4%;
+      border-style:solid;
+      border-width:0.67px;
+      margin-left:4%;  
+    }
+  .f9{
+    height:10%;
+    margin:3%;
+    padding:6%;
+    }
+  .f9 img{
+    float:left;
+    width:35%;
+    border-radius: 4%;
+    border-style:solid;
+    border-width:0.67px;
+    margin-right:4%;
+  }
+  .f10{
+    height:10%;
+    margin:2.5%;
+    padding:6%;
+    }
+
+  footer{
+    background-color:black;
+    color:beige;
+    text-align:center;
+    padding:1.3%;
+    margin-top:8%;
+  }
+
+  footer a{
+    color:beige;
+    cursor:pointer;
+    margin:2%;
+  }
+
+  footer a:hover{
+    color:blue;
+    background: white;
+  }
+
+ 
+  
